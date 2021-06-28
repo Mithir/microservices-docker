@@ -2,7 +2,9 @@
 A simple microservices-like docker setup
 
 **Using the Docker-Compose**
+
 Install Docker and Docker-Compose
+
 After creating your twitter API keys you should edit the docker-compose file and run 
 
 docker-compose up -d
