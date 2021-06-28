@@ -1,0 +1,6 @@
+#
+####### example-requirements.txt #######
+#
+###### Requirements without Version Specifiers ######
+kafka-python
+tweepy
